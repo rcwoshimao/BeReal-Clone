@@ -31,6 +31,7 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
+https://i.gifer.com/3OV6f.gif
 <img src='https://gifer.com/embed/3OV6f' title='Video Walkthrough' width='' alt='Video Walkthrough' /> 
 
 
