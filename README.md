@@ -32,6 +32,8 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
+![alt text](https://github.com/rcwoshimao/BeReal-Clone/blob/main/3OV6f.gif)
+
 <img src='https://github.com/rcwoshimao/BeReal-Clone/blob/main/3OV6f.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' /> 
 
 
