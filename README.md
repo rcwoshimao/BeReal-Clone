@@ -31,8 +31,7 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-<iframe src="https://gifer.com/embed/3OV6f" width=480 height=1050.667 frameBorder="0" allowFullScreen></iframe><p><a href="https://gifer.com">via GIFER</a></p>
-<img src='https://i.gifer.com/3OV6f.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' /> 
+<img src='https://gifer.com/embed/3OV6f' title='Video Walkthrough' width='' alt='Video Walkthrough' /> 
 
 
 GIF created with GIFER 
