@@ -31,8 +31,8 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-<div style="padding-top:218.889%;position:relative;"><iframe src="https://gifer.com/embed/3OV6f" width="100%" height="100%" style='position:absolute;top:0;left:0;' frameBorder="0" allowFullScreen></iframe></div><p><a href="https://gifer.com">via GIFER</a></p>
-<img src='https://gifer.com/embed/3OV6f' title='Video Walkthrough' width='' alt='Video Walkthrough' /> 
+
+<img src='https://github.com/rcwoshimao/BeReal-Clone/blob/main/3OV6f.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' /> 
 
 
 GIF created with GIFER 
