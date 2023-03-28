@@ -32,10 +32,10 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWJiMWY0MTMxZjgyYWYxYmI2ODVjZTg0ZDc0YTE1MjZhMGRiMDM3YSZjdD1n/CyqR94Gm0KYkVneQab/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://i.gifer.com/3OV6f.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
-GIF created with Giphy 
+GIF created with GIFER 
 
 ## Notes
 
